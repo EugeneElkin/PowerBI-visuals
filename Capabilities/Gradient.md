@@ -1,4 +1,4 @@
-# Gradient property
+a # Gradient property
 The gradient property is a property that cannot be set as standard property. Instead, you need to set a rule for substitution of the color picker property (fill type). See the example below.
 
 ```json
