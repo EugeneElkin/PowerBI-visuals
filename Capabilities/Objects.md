@@ -70,6 +70,11 @@ export interface StructuralTypeDescriptor {
 }
 ```
 
+## Gradient property
+The gradient property is special property that cannot be set as usual property. Instead, you need to set special rule for substitution of color picker property (fill type).
+
+[Learn more about applying of gradient](Gradient.md)
+
 ## enumerateObjectInstances
 To use objects effectively you will need a function in your custom visual called `enumerateObjectInstances`. This function will populate the propery pane with objects and will also determine where your objects should be bound within the dataView.  
 
