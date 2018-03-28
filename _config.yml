@@ -13,8 +13,8 @@ source:         "."
 destination:    ./_gh_pages
 host:           0.0.0.0
 port:           9001
-baseurl:        ""
-url:            "https://Microsoft.github.io/PowerBI-visuals/"
+baseurl:        "/PowerBI-visuals"
+url:            "https://Microsoft.github.io/PowerBI-visuals"
 encoding:       UTF-8
 exclude:
   - .git/
