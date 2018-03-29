@@ -69,7 +69,7 @@ DEPENDENCIES
   jekyll (~> 3.7.0)
   jekyll-redirect-from (~> 0.13.0)
   jekyll-sitemap (~> 1.2.0)
-  jekyll-toc (~> 0.5.1)
+  jekyll-toc (~> 0.5.2)
 
 BUNDLED WITH
    1.16.1
