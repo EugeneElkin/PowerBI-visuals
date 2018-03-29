@@ -1,99 +1,71 @@
 - title: Getting started
   pages:
     - title: Introduction
-    - title: Install PowerBI visuals CLI tool
-    - title: Create SSL certifications to enable live preview of visuals
-    - title: Install generated SSL certifications to enable live preview of visuals
-    #- title: Enable Developer Tools in PowerBI
-    #- title: Create New PowerBI Visual Project
-    #- title: Start Development Server for Live Update and Incremental Development
-    #- title: Adding the Debug Visual from the Visual Well into your Favorite Report
-    #- title: Adding External Libraries
-    #- title: Installing @Types for External Libraries
+    - title: Setting Up Environment
+    - title: Enable Developer Tools in PowerBI
+    - title: Create New PowerBI Visual Project
+    - title: Start Development Server for Live Update and Incremental Development
+    - title: Adding the Debug Visual from the Visual Well into your Favorite Report
+    - title: Adding External Libraries
+
+- title: What's New
+  pages:
+    - title: API 1.11.0
+    - title: API 1.10.0
+    - title: API 1.9.0
+    - title: API 1.8.0
+    - title: API 1.7.0
+    - title: API 1.6.2
+    - title: API 1.5.0
+    - title: API 1.4.0
+    - title: API 1.3.0
+    - title: API 1.2.0
+    - title: API 1.1.0
 
 - title: Concepts
   pages:
     - title: Overview
-    - title: Grid
-    - title: Media object
-    - title: Utilities for layout
+    - title: Databinding
+    - title: Selections and Slicers
+    - title: Visual Settings
+    - title: External Libraries
+    - title: Limitations
 
 - title: Tutorials
   pages:
-    - title: Overview
-    - title: Grid
-    - title: Media object
-    - title: Utilities for layout
+    - title: Building Bar Chart
+    - title: Building a Slicer Visual
+    - title: Building R Powered Custom Visual
 
 - title: Reference
   pages:
     - title: Overview
-    - title: Grid
-    - title: Media object
+    - title: Tooltips
+    - title: Localization
     - title: Utilities for layout
-
-- title: Advanced Usage
-  pages:
-    - title: Reboot
-    - title: Typography
-    - title: Code
-    - title: Images
-    - title: Tables
-    - title: Figures
 
 - title: Guidelines
   pages:
-    - title: Alerts
-    - title: Badge
-    - title: Breadcrumb
-    - title: Buttons
-    - title: Button group
-    - title: Card
-    - title: Carousel
-    - title: Collapse
-    - title: Dropdowns
-    - title: Forms
-    - title: Input group
-    - title: Jumbotron
-    - title: List group
-    - title: Modal
-    - title: Navs
-    - title: Navbar
-    - title: Pagination
-    - title: Popovers
-    - title: Progress
-    - title: Scrollspy
-    - title: Tooltips
+    - title: Mobile development
+    - title: Performance tips
 
 - title: Utilities
   pages:
-    - title: Borders
-    - title: Clearfix
-    - title: Close icon
-    - title: Colors
-    - title: Display
-    - title: Embed
-    - title: Flex
-    - title: Float
-    - title: Image replacement
-    - title: Position
-    - title: Screenreaders
-    - title: Sizing
-    - title: Spacing
-    - title: Text
-    - title: Vertical align
-    - title: Visibility
-
-- title: Change Logs
-  pages:
-    - title: Approach
-    - title: Icons
+    - title: Overview
+    - title: DataView utils
+    - title: Chart utils
+    - title: Color utils
+    - title: Tooltips utils
+    - title: Type utils
+    - title: Interactivity utils
+    - title: Formatting utils
+    - title: SVG utils
+    - title: Test Utils
 
 - title: Roadmap
+  pages:
+    - title: Overview
 
 - title: Support
   pages:
     - title: Overview
-    - title: Brand
-    - title: License
-    - title: Translations
