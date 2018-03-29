@@ -43,6 +43,7 @@ authors:            "Microsoft"
 social_image_path:  /assets/brand/bootstrap-social.png
 social_logo_path:   /assets/brand/bootstrap-social-logo.png
 blog:               "https://powerbi.microsoft.com/en-us/blog/"
+appsource:          "https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals"
 
 # Custom variables
 current_version:      1.11
