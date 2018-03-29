@@ -53,15 +53,15 @@
 - title: Utilities
   pages:
     - title: Overview
-    - title: DataView utils
-    - title: Chart utils
-    - title: Color utils
-    - title: Tooltips utils
-    - title: Type utils
-    - title: Interactivity utils
-    - title: Formatting utils
-    - title: SVG utils
-    - title: Test Utils
+    - title: DataViewUtils
+    - title: ChartUtils
+    - title: ColorUtils
+    - title: TooltipUtils
+    - title: TypeUtils
+    - title: InteractivityUtils
+    - title: FormattingUtils
+    - title: SVGUtils
+    - title: TestUtils
 
 - title: Roadmap
 
