@@ -34,6 +34,10 @@
 
       </li>
       <li class="nav-item">
+        <a class="nav-link {% if page.title == " Tutorials " %}active{% endif %}" href="{{ site.baseurl }}/tutorials/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Tutorials');">Tutorials</a>
+      </li>
+
+      <li class="nav-item">
         <a class="nav-link {% if page.title == " Examples " %}active{% endif %}" href="{{ site.baseurl }}/docs/{{ site.docs_version }}/examples/"
           onclick="ga('send', 'event', 'Navbar', 'Community links', 'Examples');">Examples</a>
       </li>

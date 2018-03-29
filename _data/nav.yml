@@ -31,12 +31,7 @@
     - title: Visual Settings
     - title: External Libraries
     - title: Limitations
-
-- title: Tutorials
-  pages:
-    - title: Building Bar Chart
-    - title: Building a Slicer Visual
-    - title: Building R Powered Custom Visual
+    - title: R Custom Visuals
 
 - title: Reference
   pages:

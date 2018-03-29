@@ -7,7 +7,7 @@
 
 <nav class="collapse bd-links" id="bd-docs-nav">
   {%- assign page_slug = page.url | split: '/' | last -%}
-  {%- for group in site.data.nav -%}
+  {%- for group in site.data.tutorials -%}
   {%- assign link = group.pages | first -%}
   {%- assign link_slug = link.title | slugify -%}
   {%- assign group_slug = group.title | slugify -%}
@@ -18,7 +18,7 @@
   {%- endif -%}
 
   <div class="bd-toc-item{% unless active == nil %} {{ active }}{% endunless %}">
-      <a class="bd-toc-link" href="{{ site.baseurl }}/docs/{{ site.docs_version }}/{{ group_slug }}/{{ link_slug }}{% if link_slug %}/{% endif %}">
+      <a class="bd-toc-link" href="{{ site.baseurl }}/tutorials/{{ group_slug }}/{{ link_slug }}{% if link_slug %}/{% endif %}">
         {{ group.title }}
       </a>
 
@@ -32,7 +32,7 @@
           {%- endif -%}
 
           <li{% unless active == nil %} class="{{ active }}"{% endunless %}>
-            <a href="{{ site.baseurl }}/docs/{{ site.docs_version }}/{{ group_slug }}/{{ doc_slug }}/">
+            <a href="{{ site.baseurl }}/tutorials/{{ group_slug }}/{{ doc_slug }}/">
               {{ doc.title }}
             </a>
 

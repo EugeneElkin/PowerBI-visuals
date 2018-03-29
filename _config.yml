@@ -42,6 +42,7 @@ description:        "PowerBI Custom Visuals Developers Documenation"
 authors:            "Microsoft"
 social_image_path:  /assets/brand/bootstrap-social.png
 social_logo_path:   /assets/brand/bootstrap-social-logo.png
+blog:               "https://powerbi.microsoft.com/en-us/blog/"
 
 # Custom variables
 current_version:      4.0.0
