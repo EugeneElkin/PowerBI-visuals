@@ -13,10 +13,11 @@
     - title: Finally Package for Distribution
 - title: Building Slicer Visual
   pages:
-    - title: Building a sample slicer visual
-    - title: Adding advanced filter API
-    - title: Using the advanced filter API
-    - title: Adding bookmarks support
+    - title: Code structure
+    - title: Adding the Interactivity Utils to the project
+    - title: Using the Interactivity Utils
+    - title: Adding the Advanced Filter API to the project
+    - title: Using the Advanced Filter API
 - title: Building R Powered Custom Visual
   pages:
     - title: Creating a new R Powered Custom Visual
@@ -24,3 +25,4 @@
     - title: Adding a static property to the property pane
     - title: Validate input data in R Script
     - title: Creating R Powered Custom Visual with HTML output
+- title: Funnel Plot from R script to R Custom Visual
