@@ -45,7 +45,7 @@ social_logo_path:   /assets/brand/bootstrap-social-logo.png
 blog:               "https://powerbi.microsoft.com/en-us/blog/"
 
 # Custom variables
-current_version:      4.0.0
+current_version:      1.11
 current_ruby_version: 4.0.0
 docs_version:         latest
 repo:                 "https://github.com/Microsoft/PowerBI-visuals"
