@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: PowerBI Custom Visuals Concepts
+title: Databinding
 description: Concepts
 group: concepts
 toc: true

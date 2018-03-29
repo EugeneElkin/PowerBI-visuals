@@ -1,11 +1,10 @@
 - title: Getting started
   pages:
-    - title: Introduction
-    - title: Setting Up Environment
-    - title: Enable Developer Tools in PowerBI
+    - title: Installation
+    - title: Create SSL Certificate
+    - title: Server certification install
+    - title: Enable Developer Tools
     - title: Create New PowerBI Visual Project
-    - title: Start Development Server for Live Update and Incremental Development
-    - title: Adding the Debug Visual from the Visual Well into your Favorite Report
     - title: Adding External Libraries
 
 - title: What's New
@@ -28,22 +27,15 @@
     - title: Overview
     - title: Databinding
     - title: Selections and Slicers
-    - title: Visual Settings
+    - title: Custom Visual Settings
     - title: External Libraries
     - title: Limitations
     - title: R Custom Visuals
 
 - title: Reference
   pages:
-    - title: Overview
-    - title: Tooltips
-    - title: Localization
-    - title: Utilities for layout
-
-- title: Guidelines
-  pages:
-    - title: Mobile development
-    - title: Performance tips
+    - title: Tooltips Manager
+    - title: Selection Manager
 
 - title: Utilities
   pages:
@@ -57,6 +49,11 @@
     - title: FormattingUtils
     - title: SVGUtils
     - title: TestUtils
+
+- title: Guidelines
+  pages:
+    - title: Mobile development
+    - title: Performance tips
 
 - title: Roadmap
 

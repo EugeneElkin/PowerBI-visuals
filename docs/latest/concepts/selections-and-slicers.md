@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: PowerBI Custom Visuals Concepts
+title: Selections and Slicers
 description: Concepts
 group: concepts
 toc: true

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: PowerBI Custom Visuals Concepts
+title: External Libraries
 description: Concepts
 group: concepts
 toc: true

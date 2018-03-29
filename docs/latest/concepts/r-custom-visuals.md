@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: PowerBI Custom Visuals Concepts
+title: R Custom Visuals
 description: Concepts
 group: concepts
 toc: true
